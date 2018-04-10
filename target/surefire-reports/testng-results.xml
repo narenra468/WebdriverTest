@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="example.NewTest" duration-ms="31293" started-at="2018-04-09T16:11:44Z" finished-at="2018-04-09T16:12:15Z">
+  <suite name="Command line suite" duration-ms="83396" started-at="2018-04-10T15:45:05Z" finished-at="2018-04-10T15:46:28Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="31293" started-at="2018-04-09T16:11:44Z" finished-at="2018-04-09T16:12:15Z">
+    <test name="Command line test" duration-ms="83396" started-at="2018-04-10T15:45:05Z" finished-at="2018-04-10T15:46:28Z">
       <class name="example.NewTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:example.NewTest@42d3bd8b]" name="beforeTest" is-config="true" duration-ms="20054" started-at="2018-04-09T21:41:44Z" finished-at="2018-04-09T21:42:04Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:example.NewTest@d041cf]" name="beforeTest" is-config="true" duration-ms="56600" started-at="2018-04-10T21:15:05Z" finished-at="2018-04-10T21:16:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="testEasy()[pri:0, instance:example.NewTest@42d3bd8b]" name="testEasy" duration-ms="10765" started-at="2018-04-09T21:42:04Z" finished-at="2018-04-09T21:42:15Z">
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:example.NewTest@d041cf]" name="testEasy" duration-ms="26013" started-at="2018-04-10T21:16:01Z" finished-at="2018-04-10T21:16:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testEasy -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:example.NewTest@42d3bd8b]" name="afterTest" is-config="true" duration-ms="451" started-at="2018-04-09T21:42:15Z" finished-at="2018-04-09T21:42:15Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:example.NewTest@d041cf]" name="afterTest" is-config="true" duration-ms="709" started-at="2018-04-10T21:16:27Z" finished-at="2018-04-10T21:16:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- example.NewTest -->
     </test> <!-- Command line test -->
-  </suite> <!-- example.NewTest -->
+  </suite> <!-- Command line suite -->
 </testng-results>
